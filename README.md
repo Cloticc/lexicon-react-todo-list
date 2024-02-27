@@ -4,7 +4,7 @@ This is a simple todo list project created with React.
 
 ## Live Demo
 
-You can view a live demo of the project [here](https://cloticc.github.io/lexicon-react-radio-app/).
+You can view a live demo of the project [here](https://cloticc.github.io/lexicon-react-todo-list/).
 
 ## Features
 
